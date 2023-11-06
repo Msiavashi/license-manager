@@ -164,3 +164,4 @@ dist
 node_modules
 .env.*
 private_key.pem
+src/*.js
